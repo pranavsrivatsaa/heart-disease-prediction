@@ -2,8 +2,6 @@
 
 An end-to-end machine learning project that predicts whether a patient is likely to have heart disease from clinical measurements. It compares three models, evaluates them with a focus on **recall** (missing a sick patient is worse than a false alarm), and serves predictions through a Streamlit web app.
 
-**🔗 Live demo:** [PASTE YOUR STREAMLIT LINK HERE]
-
 > ⚠️ Educational project only. Not a medical device and not for diagnosis.
 
 ## Problem
